@@ -50,7 +50,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [hicmtrex/commerce](https://github.com/hicmtrex/commerce)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|38<br/>Tools used|12/21/23 <br/>Report generated|
+|40<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -253,9 +253,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (17)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (19)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (17)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (19)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -266,9 +266,11 @@ Full tech stack [here](/techstack.md)
 |[deepmerge](https://www.npmjs.com/deepmerge)|v4.2.2|02/14/22|hicmtrex |MIT|N/A|
 |[eslint-config-next](https://www.npmjs.com/eslint-config-next)|v12.0.8|02/14/22|hicmtrex |N/A|N/A|
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.3.0|02/14/22|hicmtrex |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v7.0.4|02/14/22|hicmtrex |MIT|N/A|
 |[immutability-helper](https://www.npmjs.com/immutability-helper)|v3.1.1|02/14/22|hicmtrex |MIT|N/A|
 |[js-cookie](https://www.npmjs.com/js-cookie)|v3.0.1|02/14/22|hicmtrex |MIT|N/A|
 |[jsonwebtoken](https://www.npmjs.com/jsonwebtoken)|v8.5.1|02/14/22|hicmtrex |MIT|[CVE-2022-23529](https://github.com/advisories/GHSA-27h2-hvpr-p74q) (High)<br/>[CVE-2022-23539](https://github.com/advisories/GHSA-8cf7-32gw-wr33) (Moderate)<br/>[CVE-2022-23540](https://github.com/advisories/GHSA-qwph-4952-7xr6) (Moderate)<br/>[CVE-2022-23541](https://github.com/advisories/GHSA-hjrf-2m68-5959) (Moderate)|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v12.3.1|02/14/22|hicmtrex |MIT|N/A|
 |[lodash.debounce](https://www.npmjs.com/lodash.debounce)|v4.0.8|02/14/22|hicmtrex |MIT|N/A|
 |[lodash.throttle](https://www.npmjs.com/lodash.throttle)|v4.1.1|02/14/22|hicmtrex |MIT|N/A|
 |[postcss-flexbugs-fixes](https://www.npmjs.com/postcss-flexbugs-fixes)|v5.0.2|02/14/22|hicmtrex |MIT|N/A|
