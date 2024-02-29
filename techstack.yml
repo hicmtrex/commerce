@@ -2,7 +2,7 @@ repo_name: hicmtrex/commerce
 report_id: 739659295419684cd1dad45c1dbcc01f
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:17:52+00:00'
+timestamp: '2024-02-29T19:09:46+00:00'
 requested_by: hicmtrex
 provider: github
 branch: main
@@ -66,7 +66,7 @@ tools:
   last_updated_by: hicmtrex
   last_updated_on: 2022-02-14 02:49:06.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 12.0.8
   open_source: true
@@ -180,7 +180,7 @@ tools:
   detection_source_url: https://github.com/hicmtrex/commerce
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.5.1
   license: MIT
